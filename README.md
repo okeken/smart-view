@@ -27,19 +27,19 @@
 
 ## How to use
 
-[1] Connect your wallet:
+1.  Connect your wallet:
 
 ![Connect Wallet](https://github.com/okeken/smart-view/blob/main/public/connectwallet.png?raw=true)
 
-[2] Create New Project:
+2.  Create New Project:
 
 ![Connect Wallet](https://github.com/okeken/smart-view/blob/main/public/createnew.png?raw=true)
 
-- fetch from explorer if verified
+- Fetch from explorer if verified
 
 ![Fetch Abi](https://github.com/okeken/smart-view/blob/main/public/fetch1.png?raw=true)
 
 ![Fetch Abi](https://github.com/okeken/smart-view/blob/main/public/fetch2.png?raw=true)
 
-[3] Create New Project:
-![Fetch Abi](https://github.com/okeken/smart-view/blob/main/public/interact.png?raw=true)
+3. Interact with your smart contract:
+   ![Fetch Abi](https://github.com/okeken/smart-view/blob/main/public/interact.png?raw=true)
